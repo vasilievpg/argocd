@@ -2,6 +2,4 @@
 
 container:
   image: adv4000/k8sphp:version1
-
-replicaCount: 4
-
+replicaCount: 3
